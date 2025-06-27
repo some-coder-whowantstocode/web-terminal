@@ -1,0 +1,14 @@
+.page{
+    width: 100dvw;
+    flex-grow: 1;
+    display: flex;
+}
+.page textarea{
+    width: 100%;
+    flex-grow: 1;
+    outline: none;
+    margin: 0;
+    padding: 0;
+    background: rgb(29, 28, 28);
+    color:  white;
+}
